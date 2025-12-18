@@ -10,7 +10,7 @@ A beautiful, interactive virtual aquarium built with pure HTML, CSS, and JavaScr
 
 ## 🌐 Live Demo
 
-**[https://aquariumtank.github.io](https://aquariumtank.github.io)**
+**[[https://aquariumtank.github.io](https://aquariumtank.github.io/)]**
 
 ---
 
