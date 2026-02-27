@@ -5,8 +5,8 @@ authors:
   given-names: "Yuliya"
   orcid: "https://orcid.org/0009-0000-6151-7415"
 title: "Aquarium Tank"
-version: 1.0
-doi: 10.5281/zenodo.17974081
-date-released: 2025-12-18
+version: 2.0
+doi: 10.5281/zenodo.18799277
+date-released: 2026-02-27
 url: "https://github.com/aquariumtank/aquariumtank.github.io"
 license: MIT
